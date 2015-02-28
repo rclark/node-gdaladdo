@@ -1,6 +1,6 @@
 {
   "name": "gdaladdo",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Add raster overviews with node-gdal",
   "main": "index.js",
   "scripts": {
